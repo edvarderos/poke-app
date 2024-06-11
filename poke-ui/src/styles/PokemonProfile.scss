@@ -1,0 +1,26 @@
+.pokemon-profile {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .pokemon-profile img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+  }
+  
+  .pokemon-profile p,
+  .pokemon-profile ul {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+  
+  .pokemon-profile ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .pokemon-profile li {
+    margin: 5px 0;
+  }
+  
